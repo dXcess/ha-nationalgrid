@@ -1,0 +1,10 @@
+{
+  "domain": "nationalgrid",
+  "name": "National Grid",
+  "version": "0.1.0",
+  "documentation": "https://github.com/dXcess/ha-nationalgrid",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@dXcess"],
+  "config_flow": true
+}
